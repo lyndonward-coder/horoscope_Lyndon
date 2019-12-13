@@ -1,0 +1,19 @@
+body {
+    background-image: url(images/horoscopeimgggg.jpeg);
+    color : white;
+    text-align: center;
+    margin: auto;
+    font-family: 'Luminari';
+    font-style: italic;
+    font-size: 40px;
+}
+button {
+    height: 60px;
+    font-family: 'Luminari';
+    font-size: 40px;
+    font-style: italic;
+    border-radius: 50%;
+    cursor: pointer;
+
+}
+
